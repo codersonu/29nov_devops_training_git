@@ -1,1 +1,39 @@
 HI everyone
+This file indicates that i have created a file in  new repository.
+Here I will share you steps to create repository and how to aad files into it.
+STEP 1 : Yo must have github account and git application installed in it
+STEP 2:
+    1  pwd
+    2  ls
+    3  mkdir git
+    4  cd git
+    5  ls
+    6  git status
+    7  git clone https://github.com/codersonu/29nov_devops_training_git.git
+    8  cd 29nov_devops_training_git/
+    9  ls
+   10  git status
+   11  touch first_file
+   12  git add.
+   13  git add .
+   14  git status
+   15  git commit -m "test file" .
+   16  git config --global user.email"saurabhthebeast2105@gmail.com"
+   17  git config --global user.name codersonu
+   18  git commit -m "test file" .
+   19  git push
+   20  pwd
+   21  ls
+   22  git status
+   23  touch test2
+   24  git status
+   25  touch first_file
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m "first_file"
+   30  git push
+   
+ Step 3 - You are done you have created your first repository and added two files in your repo.
+
+
